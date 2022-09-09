@@ -46,6 +46,7 @@
     <Compile Include="Alyonushka.cs" />
     <Compile Include="Antonovka.cs" />
     <Compile Include="Apple.cs" />
+    <Compile Include="Garden.cs" />
     <Compile Include="Pear.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

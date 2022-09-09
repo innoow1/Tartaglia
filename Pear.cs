@@ -14,7 +14,7 @@ namespace Tartaglia
 
         public override void Grow()
         {
-            throw new NotImplementedException();
+            Age += 2;
         }
     }
 }
